@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1461706150 source:c:\users\christian\desktop\pclp\proiect\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstdlib>
+	"Menu.h"
+
+1461705758 c:\users\christian\desktop\pclp\proiect\include\user.h
+	<iostream>
+	<vector>
+	"Date.h"
+	"Book.h"
+
+1461703551 source:c:\users\christian\desktop\pclp\proiect\src\user.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	"User.h"
+
+1461696628 c:\users\christian\desktop\pclp\proiect\include\manager.h
+	"User.h"
+
+1461703128 source:c:\users\christian\desktop\pclp\proiect\src\manager.cpp
+	<fstream>
+	"Manager.h"
+
+1461705855 source:c:\users\christian\desktop\pclp\proiect\src\menu.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Menu.h"
+	"Manager.h"
+	"User.h"
+
+1461703664 c:\users\christian\desktop\pclp\proiect\include\menu.h
+	"Manager.h"
+	"User.h"
+
+1461705452 source:c:\users\christian\desktop\pclp\proiect\src\book.cpp
+	<iostream>
+	<fstream>
+	"Book.h"
+
+1461705194 c:\users\christian\desktop\pclp\proiect\include\book.h
+	<iostream>
+	"Date.h"
+
+1461705126 c:\users\christian\desktop\pclp\proiect\include\date.h
+	<iostream>
+
+1461705051 source:c:\users\christian\desktop\pclp\proiect\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1461705766 source:c:\users\christian\desktop\pclp\proiect\src\registru.cpp
+	"Registru.h"
+
+1461705744 c:\users\christian\desktop\pclp\proiect\include\registru.h
+	<iostream>
+	<vector>
+	"Book.h"
+	"User.h"
+
+1461666550 source:c:\users\catalin\desktop\proiect\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstdlib>
+	"Menu.h"
+
+1461664064 c:\users\catalin\desktop\proiect\include\menu.h
+	"Manager.h"
+	"User.h"
+
+1461657028 c:\users\catalin\desktop\proiect\include\manager.h
+	"User.h"
+
+1461775692 c:\users\catalin\desktop\proiect\include\user.h
+	<iostream>
+	<vector>
+	"Date.h"
+	"Book.h"
+
+1461665526 c:\users\catalin\desktop\proiect\include\date.h
+	<iostream>
+
+1461778516 c:\users\catalin\desktop\proiect\include\book.h
+	<iostream>
+	"Date.h"
+
+1461776798 source:c:\users\catalin\desktop\proiect\src\book.cpp
+	<iostream>
+	<fstream>
+	"Book.h"
+
+1461665451 source:c:\users\catalin\desktop\proiect\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1461776008 source:c:\users\catalin\desktop\proiect\src\manager.cpp
+	<fstream>
+	"Manager.h"
+
+1461666255 source:c:\users\catalin\desktop\proiect\src\menu.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Menu.h"
+	"Manager.h"
+	"User.h"
+
+1461666166 source:c:\users\catalin\desktop\proiect\src\registru.cpp
+	"Registru.h"
+
+1461666144 c:\users\catalin\desktop\proiect\include\registru.h
+	<iostream>
+	<vector>
+	"Book.h"
+	"User.h"
+
+1461663951 source:c:\users\catalin\desktop\proiect\src\user.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	"User.h"
+
+1461666550 source:c:\users\user\desktop\proiect\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstdlib>
+	"Menu.h"
+
+1461664064 c:\users\user\desktop\proiect\include\menu.h
+	"Manager.h"
+	"User.h"
+
+1461657028 c:\users\user\desktop\proiect\include\manager.h
+	"User.h"
+
+1461775692 c:\users\user\desktop\proiect\include\user.h
+	<iostream>
+	<vector>
+	"Date.h"
+	"Book.h"
+
+1461665526 c:\users\user\desktop\proiect\include\date.h
+	<iostream>
+
+1461778516 c:\users\user\desktop\proiect\include\book.h
+	<iostream>
+	"Date.h"
+
+1461776798 source:c:\users\user\desktop\proiect\src\book.cpp
+	<iostream>
+	<fstream>
+	"Book.h"
+
+1461665451 source:c:\users\user\desktop\proiect\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1462773464 source:c:\users\user\desktop\proiect\src\manager.cpp
+	<fstream>
+	"Manager.h"
+
+1461666255 source:c:\users\user\desktop\proiect\src\menu.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Menu.h"
+	"Manager.h"
+	"User.h"
+
+1461663951 source:c:\users\user\desktop\proiect\src\user.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	"User.h"
+
+1462771535 source:c:\users\user\desktop\proiect\src\registru.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<sstream>
+	"Registru.h"
+
+1461779212 c:\users\user\desktop\proiect\include\registru.h
+	<iostream>
+	<vector>
+	"Book.h"
+	"User.h"
+
